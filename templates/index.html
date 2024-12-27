@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Scraper Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Web Scraper Dashboard</h1>
+        <button id="scrapeBtn">Start Scraping</button>
+        <div id="results"></div>
+    </div>
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+</html>

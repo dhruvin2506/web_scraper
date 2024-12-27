@@ -1,0 +1,13 @@
+2024-12-26 14:52:58,113 - SiteScraper - INFO - Scraped 20 books
+2024-12-27 12:27:50,557 - SiteScraper - INFO - Scraped 20 books
+2024-12-27 12:27:50,557 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:27:50] "POST /scrape HTTP/1.1" 200 -
+2024-12-27 12:27:57,376 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:27:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-27 12:40:11,530 - SiteScraper - INFO - Scraped 20 books
+2024-12-27 12:40:28,484 - SiteScraper - INFO - Scraped 20 books
+2024-12-27 12:40:28,485 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:40:28] "POST /scrape HTTP/1.1" 200 -
+2024-12-27 12:40:32,673 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:40:32] "GET / HTTP/1.1" 200 -
+2024-12-27 12:40:32,680 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:40:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-27 12:40:32,681 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:40:32] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+2024-12-27 12:40:35,293 - SiteScraper - INFO - Scraped 20 books
+2024-12-27 12:40:35,293 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:40:35] "POST /scrape HTTP/1.1" 200 -
+2024-12-27 12:40:36,805 - werkzeug - INFO - 127.0.0.1 - - [27/Dec/2024 12:40:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

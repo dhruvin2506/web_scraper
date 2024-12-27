@@ -1,0 +1,13 @@
+scraping:
+  base_url: "https://books.toscrape.com"
+  delay: 2  # Seconds between requests
+  timeout: 30  # Request timeout in seconds
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+database:
+  path: "data/scraper.db"
+  backup_path: "data/backups/"
+
+logging:
+  level: "INFO"
+  file: "logs/scraper.log"
